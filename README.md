@@ -1,1 +1,1 @@
-# JavaStudies
+# Python Projects

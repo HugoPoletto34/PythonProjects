@@ -1,6 +1,0 @@
-*.xml
-*.idea
-*.gradle
-*venv
-*build
-*cmake-build-debug
